@@ -1,4 +1,8 @@
-USRP maser line receiver for amateur radio astronomy.
-VI files written for LabVIEW 2016 or later.
-UHD drivers for USRP have to be preinstalled, https://files.ettus.com/manual/page_install.html
-NI-USRP Configuration Utility is desirable for device handling, https://www.youtube.com/watch?v=Hyo1ZWcO61Y
+USRP maser line receiver is intended for amateur radio astronomy.
+
+Virtual instrument (VI) files were done in LabVIEW 2016. Latter versions did not tested, but expected to work.
+
+USRP devices require the UHD drivers preinstalled, see https://files.ettus.com/manual/page_install.html
+
+NI-USRP Configuration Utility is very desirable for device handling, see video https://www.youtube.com/watch?v=Hyo1ZWcO61Y. This utility allowss to retrieve or change device ID for succesful work of the receiver.
+
